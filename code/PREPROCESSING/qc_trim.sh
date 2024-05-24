@@ -23,4 +23,3 @@ trimmomatic PE \
 
 # re-check QC
 fastqc data/TRIM_FASTQ/*.gz -o out/QC/TRIMMED
-
