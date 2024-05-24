@@ -1,0 +1,9 @@
+# Ignore heavy raw files
+## raw fastq
+data/FASTQ/*
+## trimmed fastq
+data/TRIM_FASTQ/*
+
+# Ignore heavy output files
+out/ASSEMBLY/NOVOplasty
+
