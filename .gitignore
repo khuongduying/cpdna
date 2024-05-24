@@ -5,5 +5,4 @@ data/FASTQ/*
 data/TRIM_FASTQ/*
 
 # Ignore heavy output files
-out/ASSEMBLY/NOVOplasty
 
