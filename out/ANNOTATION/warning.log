@@ -1,0 +1,9 @@
+Circularized_assembly_1_MANGO2024
+Warning: psbL (negative no-intron PCG) has non-canonical start codon!
+Warning: rps12+1 (negative no-intron PCG) has non-canonical start codon!
+Warning: trnI-GAU (negative one-intron tRNA) must be checked due to non-identical boundary with reference!
+Total number of genes in the reference plastome(s): 109.
+Total number of genes annotated in the target plastome: 108.
+All gene names from the reference plastome(s) that were not annotated in the target plastome:
+ycf15	
+
