@@ -1,6 +1,6 @@
 Project:
 -----------------------
-Project name          = MANGO2024
+Project name          = GENEMIND
 Type                  = chloro
 Genome Range          = 120000-220000
 K-mer                 = 33
@@ -20,8 +20,8 @@ Insert size           = 300
 Platform              = illumina
 Single/Paired         = PE
 Combined reads        = 
-Forward reads         = /mnt/rdisk/duydao/PROJECT/CPDNA_MANGO/data/TRIM_FASTQ/WI1382403A01_L2_1_trimmed_paired.fq.gz
-Reverse reads         = /mnt/rdisk/duydao/PROJECT/CPDNA_MANGO/data/TRIM_FASTQ/WI1382403A01_L2_2_trimmed_paired.fq.gz
+Forward reads         = /mnt/rdisk/duydao/PROJECT/CPDNA_MANGO/data/TRIM_FASTQ/GENEMIND/GENEMIND_L00_R1_trimmed_paired.fq.gz
+Reverse reads         = /mnt/rdisk/duydao/PROJECT/CPDNA_MANGO/data/TRIM_FASTQ/GENEMIND/GENEMIND_L00_R2_trimmed_paired.fq.gz
 Store Hash            =
 
 Heteroplasmy:
@@ -35,4 +35,4 @@ Optional:
 Insert size auto      = yes
 Use Quality Scores    = no
 Reduce ambigious N's  = 
-Output path           = /mnt/rdisk/duydao/PROJECT/CPDNA_MANGO/out/ASSEMBLY/NOVOplasty/
+Output path           = /mnt/rdisk/duydao/PROJECT/CPDNA_MANGO/out/ASSEMBLY/NOVOplasty/GENEMIND/
