@@ -2,7 +2,7 @@ library(chloroplot)
 # Plot Ppchloroplast genome.
 
 # 1. Parsing the GenBank file.
-gbfile <- "/mnt/rdisk/duydao/PROJECT/CPDNA_MANGO/data/REFFERENCES/GENBANK/Mango_GeSeq_annotated.gb"
+gbfile <- "/mnt/rdisk/duydao/PROJECT/CPDNA_MANGO/out/ANNOTATION/GESEQ/GENEMIND/Prumus_genemind_GeSeq_annotated.gb"
 
 t <- PlotTab(
     gbfile = gbfile,
