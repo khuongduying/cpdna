@@ -1,18 +1,18 @@
-# references
+# References
 
-Seed (matK gene of Prunus mume):
+**Seed (matK gene of Prunus mume):**
 https://www.ncbi.nlm.nih.gov/nuccore/NC_023798.1?report=fasta&from=1978&to=3498&strand=true
 
-Reference chloroplast of Prunus mume (Completed genome)
+**Reference chloroplast of Prunus mume (Completed genome)**
 https://www.ncbi.nlm.nih.gov/nucleotide/NC_023798.1
 
-Tool:
+**Tool:**
 Assembly:
 NOVOPlasty [https://github.com/ndierckx/NOVOPlasty]
 
-Annotation:
+**Annotation:**
 Prefer: GeSeq [https://chlorobox.mpimp-golm.mpg.de/geseq.html]
 PGA [https://github.com/quxiaojian/PGA]
 
-Visualization Chloroplast Genome:
+**Visualization Chloroplast Genome:**
 Chloroplot [https://github.com/shuyuzheng/Chloroplot]
