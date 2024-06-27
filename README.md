@@ -16,3 +16,7 @@ PGA [https://github.com/quxiaojian/PGA]
 
 **Visualization Chloroplast Genome:**
 Chloroplot [https://github.com/shuyuzheng/Chloroplot]
+
+
+# Notes
+This repo was integrated with Jira
